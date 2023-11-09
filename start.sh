@@ -1,0 +1,1 @@
+sudo /home/jetson/enter/envs/ml/bin/python test.py 
